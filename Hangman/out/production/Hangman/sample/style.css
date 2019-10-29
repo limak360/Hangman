@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+
+.root{
+    -fx-background-image: url("pics/x.png");
+    -fx-background-color: rgba(0, 0, 0, 0);
+}
+
+.button{
+        -fx-font-family: 'Press Start 2P', cursive;
+       -fx-background-color: transparent;
+       -fx-text-fill: #98a09f;
+ }
+
+.label{
+        -fx-font-family: 'Press Start 2P', cursive;
+       -fx-text-fill: #98a09f;
+}
